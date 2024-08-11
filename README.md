@@ -77,7 +77,7 @@ Complete the challenges in the `Jupyter Notebook` file. Follow the instructions 
 - Upon completion, run the following commands:
 
 ```bash
-git add .
+git add lab_apis.ipynb
 git commit -m "Solved lab"
 git push origin master
 ```
